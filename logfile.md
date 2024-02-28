@@ -10,3 +10,4 @@
 # 20240223: want together
 # 20240224: uni up to 70%
 # 20240226: uni going down
+# 20240228: btc crazy
