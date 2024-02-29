@@ -11,3 +11,4 @@
 # 20240224: uni up to 70%
 # 20240226: uni going down
 # 20240228: btc crazy
+# 20240229: 2024 target high possibility can meet
