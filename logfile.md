@@ -19,3 +19,4 @@
 # 20240307: 5000cost
 # 20240309: Sam 700 cost
 # 20240310: 1/3 of March gone
+# 20240311: pain a lot
