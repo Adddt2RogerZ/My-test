@@ -73,3 +73,4 @@
 # 20240609: eigenno
 # 20240610: lastholiday
 # 20240611: thisaccverylow
+# 20240615: EUCUPSTART
